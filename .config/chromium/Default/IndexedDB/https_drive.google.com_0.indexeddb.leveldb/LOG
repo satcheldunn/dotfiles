@@ -1,0 +1,6 @@
+2018/10/28-09:48:10.275 1381 Reusing MANIFEST /home/satchel/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/28-09:48:10.275 1381 Recovering log #94
+2018/10/28-09:48:10.282 1381 Reusing old log /home/satchel/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000094.log 
+2018/10/28-09:48:15.679 1853 Level-0 table #98: started
+2018/10/28-09:48:15.710 1853 Level-0 table #98: 4949895 bytes OK
+2018/10/28-09:48:15.715 1853 Delete type=0 #94

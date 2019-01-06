@@ -1,0 +1,34 @@
+{
+   "description": "Clean, black & white manga themed One Punch Man",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0PEkRxGLaH1fyDEPHCW6yCOGSztSNrojgqdfHKI48Yj+srtrapj5IS0CE2A0igEMO4rgISgms8eGcR3WbogkQMMSAJTA4Vi//Q1bgW9TnCUQ+BREm1zZ1nXIo3nW7dGPLiaCLx9Kvi4fkeO9y5TnGNlsRHlrJYCpxn3tJRwES7w9fBvNTMMUndtAMYCTNUWnkvbP5I+0EA502ZIHj/ALATSGIgEgErqYUQ032qRsT+fWjEA8m4yfmIyE7WpARgvRUX7MlpnkMS9sHNFiInvCdKgBdLO/LCfBfteKsO9WSv5Z+zkF+z7OsFnxgiqm4h7QqH5x9BbehVTGKhngltRVSQIDAQAB",
+   "manifest_version": 2,
+   "name": "One Punch Man - Saitama",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 6, 5, 6 ],
+         "button_background": [ 255, 53, 53, 1 ],
+         "frame": [ 66, 116, 201 ],
+         "ntp_background": [ 0, 0, 0 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 6, 5, 6 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 255, 127, 127 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_frame_overlay": "images/theme_frame_overlay.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "right bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 1, 0.6 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

@@ -1,0 +1,3 @@
+2018/10/28-09:48:14.612 1380 Reusing MANIFEST /home/satchel/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/28-09:48:14.612 1380 Recovering log #3
+2018/10/28-09:48:14.613 1380 Reusing old log /home/satchel/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 

@@ -1,0 +1,5 @@
+#Dark Theme
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+
+#Light Theme
+#rofi.theme: ~/.cache/wal/colors-rofi-light.rasi

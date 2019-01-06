@@ -1,0 +1,19 @@
+2018/10/27-13:23:48.038 28314 Reusing MANIFEST /home/satchel/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/27-13:23:48.038 28314 Recovering log #88
+2018/10/27-13:23:48.045 28314 Reusing old log /home/satchel/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000088.log 
+2018/10/27-13:24:12.208 14336 Level-0 table #92: started
+2018/10/27-13:24:12.242 14336 Level-0 table #92: 4668920 bytes OK
+2018/10/27-13:24:12.247 14336 Delete type=0 #88
+2018/10/27-13:24:12.248 14336 Compacting 4@0 + 2@1 files
+2018/10/27-13:24:12.269 14336 Generated table #93@0: 110 keys, 1170349 bytes
+2018/10/27-13:24:12.269 14336 Compacted 4@0 + 2@1 files => 1170349 bytes
+2018/10/27-13:24:12.273 14336 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/27-13:24:12.273 14336 Delete type=2 #86
+2018/10/27-13:24:12.274 14336 Delete type=2 #84
+2018/10/27-13:24:12.275 14336 Delete type=2 #80
+2018/10/27-13:24:12.275 14336 Delete type=2 #81
+2018/10/27-13:24:12.275 14336 Delete type=2 #92
+2018/10/27-13:24:12.277 14336 Delete type=2 #89
+2018/10/28-09:39:19.004 14336 Level-0 table #95: started
+2018/10/28-09:39:19.035 14336 Level-0 table #95: 4216614 bytes OK
+2018/10/28-09:39:19.040 14336 Delete type=0 #91

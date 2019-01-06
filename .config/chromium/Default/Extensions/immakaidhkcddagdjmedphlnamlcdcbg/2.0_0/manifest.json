@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "json.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "options.html",
+      "default_title": "Noiszy"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "description": "They're listening. Make some noise.",
+   "icons": {
+      "128": "icon_c_128.png",
+      "16": "icon_c_16.png",
+      "48": "icon_c_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApV2Eut0M+sGL1P+dKZHqx87yxEf6Fg0IJoU0y8lizBDl1+8yyWSHV/4AbrSwo4+X01UL8H8x89baNRY6VNeYdGei1+z9jkcXvMhwJlQqen48J0WVcRQtFmswGyVgrDW5xDgE4+LvTa+rtpn2+4pXYIZakuTUU53nhhtbjMXMqoy2c8Ebn8xMnKANFb3sXhk0HIViTAFo43/NWafkNeitPz1CUsXTflP0i6mhjkfXgAVPGrPv3og/doUc5i3ty/7dHkcg8gfWoJKr9OvEIreg2MuFD8k92riNCQnudbwubB4YiNDGZoC63mDwG3sk9ydTBCxF53cP4phEpOCbPcTJIQIDAQAB",
+   "manifest_version": 2,
+   "name": "Noiszy",
+   "options_page": "options.html",
+   "permissions": [ "alarms", "activeTab", "storage", "webNavigation", "*://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

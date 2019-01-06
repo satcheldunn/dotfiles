@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "js": [ "content_script.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Replaces \"God\" with \"Nicolas Cage.\" May your Mountain Dew be sweet!",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "48": "48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiHxI3pyL0CofQJPw6i+SEn8RAxBzSFA9nXbGs/Il3ibMbZzOhOStnHOMw3y6iTCr25qiXuGRJkPD/iuO9Ppg58Q3wHvw0Ix1aEz2IhjtxiI8n8ocPxJ7JsDOX0zQLA5Tj3TRndNXeSv1wP48jdhiUWEBD/GDtJ9PJAK5wnPQ8JLxT+KHr7285XPrnUruMJYJ2qJJAhs76k4q7SSieeXmyWOUkJxIw7XFMXiCDbgh6uziNApJL9z6EtKuNcm1TVYpTdzgzhG8Hp33a8xnonbNYXoLDkJpozCcxMgCMsDkVtjRyTDRTSLiOnwHS08V93aT6/9rkgF3ubbzYFWKLMP3RwIDAQAB",
+   "manifest_version": 2,
+   "name": "Nicolas Cage",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
